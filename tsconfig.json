@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/FancyButton.jsx", "components/FancyButton.jsx", "components/GalleryHidden", "components/Layout.jsx", "components/TransitionEffect1.jsx"],
   "exclude": ["node_modules"]
 }
